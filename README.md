@@ -1,8 +1,5 @@
 # About simon Game
-The Simon Game is a memory game where players must repeat a sequence of lights and sounds.  
-The game starts with a simple sequence that increases in complexity as players successfully replicate it.  
-Each round, the computer adds a new color to the sequence, and players must remember and click
-the colors in the correct order.  
+The Simon Game is a memory game where players must repeat a sequence as computer flashes one of the Colors.The game starts with a simple sequence that increases in complexity as players successfully replicate it. Each round,the computer flashes any one  to the sequence, and players must remember and click the colors in the correct order.  
 The goal is to keep up with the increasingly challenging sequences without making a mistake.
 
 It’s a fun way to test and improve memory and attention skills!
